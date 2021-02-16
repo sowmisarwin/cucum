@@ -14,7 +14,7 @@ public class HooksClass extends Base{
 	}
 	@After
 	public void afterExecution() {
-		close();
+		//close();
 	}
 	
 	
